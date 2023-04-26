@@ -31,6 +31,7 @@ Simple Gallery app fetch images from API .
 
 <div align="center">
 ##  GIF
-https://user-images.githubusercontent.com/113037698/234609990-245c2730-651b-4f71-96cf-81a61f17be99.mp4
+https://user-images.githubusercontent.com/113037698/234620351-78aa5963-38e9-454e-b228-d1c3eeb7ed12.mp4
+
 
 </div>
