@@ -17,6 +17,7 @@ Simple Gallery app fetch images from API .
 - Main features are as follows:
     - Search Any type Of Images
     - Multiple Images
+    - Light and Dark Theme
 
 ## 📲 Screenshots
 
