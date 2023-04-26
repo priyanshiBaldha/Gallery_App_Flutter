@@ -1,16 +1,35 @@
-# final_gallery_app
+<div align="center">
 
-A new Flutter project.
+<img src="./assets/images/image.png" width="220px">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# **Gallery App**
+Simple Gallery app fetch images from API .
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## ⚙️ Features
+
+- Main features are as follows:
+    - Search Any type Of Images
+    - Multiple Images
+
+## 📲 Screenshots
+
+<img align="left" src="./assets/Screenshot/s1.png" width="220px">
+<img align="left" src="./assets/Screenshot/s2.png" width="220px">
+<img align="left" src="./assets/Screenshot/s1.png" width="220px">
+<img src="./assets/Screenshot/s2.png" width="220px">
+
+
+<br><br>
+
+<div align="center">
+##  GIF
+https://user-images.githubusercontent.com/113037698/234609990-245c2730-651b-4f71-96cf-81a61f17be99.mp4
+
+</div>
