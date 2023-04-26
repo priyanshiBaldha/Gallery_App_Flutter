@@ -22,8 +22,8 @@ Simple Gallery app fetch images from API .
 
 <img align="left" src="./assets/Screenshot/s1.png" width="220px">
 <img align="left" src="./assets/Screenshot/s2.png" width="220px">
-<img align="left" src="./assets/Screenshot/s1.png" width="220px">
-<img src="./assets/Screenshot/s2.png" width="220px">
+<img align="left" src="./assets/Screenshot/s3.png" width="220px">
+<img src="./assets/Screenshot/s4.png" width="220px">
 
 
 <br><br>
