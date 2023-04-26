@@ -1,6 +1,9 @@
 import 'package:final_gallery_app/Controller/Helper/api_helper.dart';
 import 'package:final_gallery_app/Model/imageModel.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import '../../Controller/Provider/theme_Provider.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -15,11 +18,21 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
 
     return Scaffold(
-      backgroundColor: Colors.lightBlue.shade50,
+      // backgroundColor: Colors.lightBlue.shade50,
       appBar: AppBar(
         title: Text("Gallery App",style: TextStyle(fontWeight: FontWeight.w400,fontSize: 30,letterSpacing: 2),),
         centerTitle: true,
-        backgroundColor: Colors.lightBlue.shade100,
+        // backgroundColor: Colors.lightBlue.shade100,
+        actions: [
+          IconButton(
+            icon: Icon(
+              Icons.light_mode_outlined,
+            ),
+            onPressed: () {
+              Provider.of<ThemeProvider>(context, listen: false).chnageTheme();
+            },
+          ),
+        ],
 
       ),
       
